@@ -7,7 +7,7 @@
 }
 html {
   font-size: 40px;
-  font-family: "Caveat", "Montserrat";
+  font-family: "Caveat", 'Montserrat Alternates';
   scroll-behavior: smooth;
 }
 #imgFoto1 {
@@ -410,13 +410,13 @@ h11
 	left: 1255px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h12
 {
   font-size: 22px;
-  font-family: "Montserrat Alternates";
+  font-family: 'Montserrat Alternates';
 	color: #00000;
 	position: absolute;
 	top: 6048px;
@@ -436,7 +436,7 @@ color: #FFFFFF;
 	left: 1580px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: -200;
+	font-weight: 700;
 	line-height: 27px;
 }
 h17
@@ -449,7 +449,7 @@ color: #000000;
 	left: 847px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: -200;
+	font-weight: 700;
 	line-height: 27px;
 	opacity: 1;
 }

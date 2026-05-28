@@ -7,7 +7,7 @@
 }
 html {
   font-size: 40px;
-  font-family: "Caveat", "Montserrat";
+  font-family: "Caveat", 'Montserrat Alternates';
   scroll-behavior: smooth;
 }
 #gifka {
@@ -539,7 +539,7 @@ color: #00000;
 	left: 1240px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: bold;
+	font-weight: 700;
 	line-height: 27px;
 }
 h10
@@ -617,7 +617,7 @@ color: #00000;
 	left: 859px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h16
@@ -682,7 +682,7 @@ color: #00000;
 	left: 293px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h22
@@ -734,7 +734,7 @@ color: #00000;
 	left: 1060px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h26
@@ -760,7 +760,7 @@ color: #00000;
 	left: 401px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h28
@@ -799,7 +799,7 @@ color: #00000;
 	left: 983px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h31
@@ -825,7 +825,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h33
@@ -851,7 +851,7 @@ color: #00000;
 	left: 983px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h35
@@ -877,7 +877,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h37
@@ -903,7 +903,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 	opacity: 0;
 	
@@ -933,7 +933,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 	opacity: 0;
 	 
@@ -963,7 +963,7 @@ color: #000000;
 	left: 761px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: -200;
+	font-weight: 700;
 	line-height: 27px;
 	opacity: 1;
 }
@@ -977,7 +977,7 @@ color: #FFFFFF;
 	left: 1580px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: -200;
+	font-weight: 700;
 	line-height: 27px;
 }
 button

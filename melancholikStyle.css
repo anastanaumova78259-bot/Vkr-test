@@ -7,7 +7,7 @@
 }
 html {
   font-size: 40px;
-  font-family: "Caveat", "Montserrat";
+  font-family: "Caveat", 'Montserrat Alternates';
   scroll-behavior: smooth;
 }
 #imgFoto1 {
@@ -166,7 +166,7 @@ color: #000000;
 	left: 732px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: -200;
+	font-weight: 700;
 	line-height: 27px;
 	opacity: 1;
 }
@@ -180,7 +180,7 @@ color: #000000;
 	left: 816px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: -200;
+	font-weight: 700;
 	line-height: 27px;
 	opacity: 1;
 }
@@ -194,7 +194,7 @@ color: #FFFFFF;
 	left: 1580px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: -200;
+	font-weight: 700;
 	line-height: 27px;
 }
 

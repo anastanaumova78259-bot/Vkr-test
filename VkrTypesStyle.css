@@ -7,7 +7,7 @@
 }
 html {
   font-size: 40px;
-  font-family: "Caveat", "Montserrat";
+  font-family: "Caveat", 'Montserrat Alternates';
   scroll-behavior: smooth;
 }
 #gifka {
@@ -442,7 +442,7 @@ color: #00000;
 	left: 1056px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h3
@@ -507,7 +507,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h7
@@ -598,7 +598,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h14
@@ -611,7 +611,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h15
@@ -652,7 +652,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h19
@@ -756,7 +756,7 @@ color: #00000;
 	left: 185px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h26
@@ -782,7 +782,7 @@ color: #00000;
 	left: 1155px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h17
@@ -795,7 +795,7 @@ color: #000000;
 	left: 719px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: -200;
+	font-weight: 700;
 	line-height: 27px;
 	opacity: 1;
 }
@@ -809,7 +809,7 @@ color: #00000;
 	left: 1056px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h29
@@ -874,7 +874,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: bolder;
+	font-weight: 700;
 	line-height: 60px;
 }
 h32
@@ -978,7 +978,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h40
@@ -991,7 +991,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h41
@@ -1034,7 +1034,7 @@ color: #FFFFFF;
 	left: 1580px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: -200;
+	font-weight: 700;
 	line-height: 27px;
 }
 
@@ -1049,7 +1049,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h45
@@ -1166,7 +1166,7 @@ color: #00000;
 	left: 185px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h52
@@ -1179,7 +1179,7 @@ color: #00000;
 	left: 353px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h53
@@ -1192,7 +1192,7 @@ color: #00000;
 	left: 1188px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h54
@@ -1205,7 +1205,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h55
@@ -1270,7 +1270,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: bolder;
+	font-weight: 700;
 	line-height: 60px;
 }
 h59
@@ -1413,7 +1413,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h70
@@ -1426,7 +1426,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h71
@@ -1467,7 +1467,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h74
@@ -1597,7 +1597,7 @@ color: #00000;
 	left: 185px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h81
@@ -1610,7 +1610,7 @@ color: #00000;
 	left: 323px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h82
@@ -1623,7 +1623,7 @@ color: #00000;
 	left: 1151px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h83
@@ -1636,7 +1636,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h84
@@ -1701,7 +1701,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: bolder;
+	font-weight: 700;
 	line-height: 60px;
 }
 h88
@@ -1818,7 +1818,7 @@ color: #00000;
 	left: 178px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h97
@@ -1831,7 +1831,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h98
@@ -1872,7 +1872,7 @@ color: #00000;
 	left: 1057px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 60px;
 }
 h101
@@ -2002,7 +2002,7 @@ color: #00000;
 	left: 185px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h108
@@ -2015,7 +2015,7 @@ color: #00000;
 	left: 353px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 h109
@@ -2028,7 +2028,7 @@ color: #00000;
 	left: 1147px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: normal;
+	font-weight: 700;
 	line-height: 27px;
 }
 button
