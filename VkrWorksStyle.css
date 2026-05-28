@@ -459,9 +459,9 @@ color: #00000;
 	position: absolute;
 	top: 1161px;
 	left: 983px;
-	letter-spacing: normal;
+	letter-spacing: -0.014em;
 	z-index: 3;
-	font-weight: bolder;
+	font-weight: 600;
 	line-height: 27px;
 }
 h4
@@ -474,7 +474,7 @@ color: #00000;
 	left: 69px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: bolder;
+	font-weight: 600;
 	line-height: 27px;
 }
 h5
@@ -487,7 +487,7 @@ color: #00000;
 	left: 341px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: bolder;
+	font-weight: 600;
 	line-height: 27px;
 }
 h6
@@ -500,7 +500,7 @@ color: #00000;
 	left: 555px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: bolder;
+	font-weight: 600;
 	line-height: 27px;
 }
 h7
@@ -513,7 +513,7 @@ color: #00000;
 	left: 759px;
 	letter-spacing: normal;
 	z-index: 3;
-	font-weight: bolder;
+	font-weight: 600;
 	line-height: 27px;
 }
 h8
@@ -576,9 +576,9 @@ color: #00000;
 	position: absolute;
 	top: 2263px;
 	left: 983px;
-	letter-spacing: normal;
+	letter-spacing: -0.017em;
 	z-index: 3;
-	font-weight: bolder;
+	font-weight: 600;
 	line-height: 27px;
 }
 h13
