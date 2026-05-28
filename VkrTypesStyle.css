@@ -1,0 +1,2100 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 40px;
+  font-family: "Caveat", "Montserrat";
+  scroll-behavior: smooth;
+}
+#gifka {
+    position: absolute;
+	width: 891.8px;
+  height: 500px;
+    left: 850px;
+    top: 4150px;
+	opacity: 1;	
+	z-index: 4;
+}
+#imgFoto1 {
+    position: absolute;
+	width: 1905px;
+  height: 10871px;
+    left: 0px;
+    top: 55px;
+	z-index: 1;
+}
+#imgFoto0 {
+    position: absolute;
+	width: 1905px;
+  height: 61px;
+    left: 0px;
+    top: 0px;
+	z-index: -1;
+}
+#imgFoto2 {
+    position: absolute;
+	width: 364px;
+  height: 60px;
+    left: 776px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto3 {
+    position: absolute;
+	width: 48px;
+  height: 48.11px;
+    left: 936px;
+    top: 4px;
+	z-index: 3;
+}
+
+#imgFoto4 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 41px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto5 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 409px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto6 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 1143px;
+    top: 2px;
+	z-index: 2;
+}
+#imgFoto7 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 1510px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto8 {
+    position: absolute;
+	width: 192px;
+  height: 185px;
+    left: 571px;
+    top: 2937px;
+	z-index: 3;
+}
+#imgFoto9 {
+    position: absolute;
+	width: 192px;
+  height: 168.72px;
+    left: 1453px;
+    top: 2940px;
+	z-index: 3;
+}
+#imgFoto10 {
+    position: absolute;
+	width: 389px;
+  height: 416px;
+    left: 366px;
+    top: 3489px;
+	z-index: 3;
+}
+#imgFoto11 {
+    position: absolute;
+	width: 735.33px;
+  height: 239px;
+    left: 1057px;
+    top: 4121px;
+	z-index: 3;
+}
+#imgFoto12 {
+    position: absolute;
+	width: 174px;
+  height: 400.78px;
+    left: 457px;
+    top: 4536.49px;
+	z-index: 3;
+}
+#imgFoto13 {
+    position: absolute;
+	width: 744px;
+  height: 954px;
+    left: 147px;
+    top: 6492px;
+	z-index: 3;
+}
+#imgFoto14 {
+    position: absolute;
+	width: 671.6px;
+  height: 357px;
+    left: 203px;
+    top: 7137px;
+	z-index: 43;
+}
+#imgFoto15 {
+    position: absolute;
+	width: 192px;
+  height: 185px;
+    left: 448px;
+    top: 8339px;
+	z-index: 3;
+}
+#imgFoto16 {
+    position: absolute;
+	width: 192px;
+  height: 168.72px;
+    left: 1330px;
+    top: 8342px;
+	z-index: 3;
+}
+#imgFoto17 {
+    position: absolute;
+	width: 389px;
+  height: 416px;
+    left: 366px;
+    top: 8842px;
+	z-index: 3;
+}
+#imgFoto18 {
+    position: absolute;
+	width: 676px;
+  height: 285.43px;
+    left: 1087px;
+    top: 9446px;
+	z-index: 3;
+}
+#imgFoto19 {
+    position: absolute;
+	width: 174px;
+  height: 400.78px;
+    left: 457px;
+    top: 9876px;
+	z-index: 3;
+}
+#imgFoto20 {
+    position: absolute;
+	width: 874px;
+  height: 865px;
+    left: 111px;
+    top: 1241px;
+	z-index: 3;
+}
+#imgFoto21 {
+    position: absolute;
+	width: 904px;
+  height: 452px;
+    left: 89px;
+    top: 1681px;
+	z-index: 4;
+}
+#imgFoto22 {
+    position: absolute;
+	width: 466px;
+  height: 743px;
+    left: 262px;
+    top: 5307px;
+	z-index: 3;
+}
+#imgFoto23 {
+    position: absolute;
+	width: 454px;
+  height: 729px;
+    left: 1141px;
+    top: 5321px;
+	z-index: 3;
+}
+#imgFoto24 {
+    position: absolute;
+	width: 460px;
+  height: 866px;
+    left: 264px;
+    top: 10578px;
+	z-index: 3;
+}
+#imgFoto25 {
+    position: absolute;
+	width: 307px;
+  height: 941px;
+    left: 1188px;
+    top: 10503px;
+	z-index: 3;
+}
+#imgFoto26 {
+    position: absolute;
+	width: 592px;
+  height: 945px;
+    left: 264px;
+    top: 11935px;
+	z-index: 3;
+}
+#imgFoto27 {
+    position: absolute;
+	width: 743.98px;
+  height: 417px;
+    left: 185px;
+    top: 12513px;
+	z-index: 4;
+}
+#imgFoto28{
+    position: absolute;
+	width: 192px;
+  height: 185px;
+    left: 448px;
+    top: 13779px;
+	z-index: 3;
+}
+#imgFoto29 {
+    position: absolute;
+	width: 192px;
+  height: 168.72px;
+    left: 1452px;
+    top: 13778px;
+	z-index: 3;
+}
+
+
+#imgFoto31 {
+    position: absolute;
+	width: 1905px;
+  height: 350px;
+    left: 0px;
+    top: 23041px;
+	z-index: 2;
+}
+#imgFoto32 {
+    position: absolute;
+	width: 76px;
+  height: 76px;
+    left: 896px;
+    top: 23251px;
+	z-index: 4;
+}
+#imgFoto33 {
+    position: absolute;
+	width: 188.5px;
+  height: 76px;
+    left: 178px;
+    top: 23251px;
+	z-index: 4;
+}
+#imgFoto34 {
+    position: absolute;
+	width: 75px;
+  height: 75px;
+    left: 1480px;
+    top: 23251px;
+	z-index: 4;
+}
+
+
+#imgFoto35 {
+    position: absolute;
+	width: 389px;
+  height: 416px;
+    left: 366px;
+    top: 14371px;
+	z-index: 3;
+}
+#imgFoto36 {
+    position: absolute;
+	width: 735.33px;
+  height: 239px;
+    left: 1057px;
+    top: 15029px;
+	z-index: 3;
+}
+#imgFoto37 {
+    position: absolute;
+	width: 174px;
+  height: 400.78px;
+    left: 457px;
+    top: 15466px;
+	z-index: 3;
+}
+#imgFoto38 {
+    position: absolute;
+	width: 454px;
+  height: 825px;
+    left: 292px;
+    top: 16198px;
+	z-index: 3;
+}
+#imgFoto39 {
+    position: absolute;
+	width: 303px;
+  height: 848px;
+    left: 1201px;
+    top: 16175px;
+	z-index: 3;
+}
+#imgFoto40 {
+    position: absolute;
+	width: 622px;
+  height: 928px;
+    left: 203px;
+    top: 17543px;
+	z-index: 3;
+}
+#imgFoto41 {
+    position: absolute;
+	width: 608.36px;
+  height: 311px;
+    left: 269px;
+    top: 18193px;
+	z-index: 4;
+}
+#imgFoto42 {
+    position: absolute;
+	width: 192px;
+  height: 185px;
+    left: 589px;
+    top: 19474px;
+	z-index: 3;
+}
+#imgFoto43 {
+    position: absolute;
+	width: 192px;
+  height: 168.72px;
+    left: 1519px;
+    top: 19473px;
+	z-index: 3;
+}
+#imgFoto44 {
+    position: fixed;
+	width: 50px;
+  height: 50px;
+    right: 20px;
+    bottom: 20px;
+	z-index: 5;
+	opacity: 0.5;
+	border: 2px solid white;
+	border-radius: 50%;
+}
+#imgFoto45 {
+    position: absolute;
+	width: 202px;
+  height: 396.83px;
+    left: 445px;
+    top: 20129px;
+	z-index: 3;
+}
+#imgFoto46 {
+    position: absolute;
+	width: 676px;
+  height: 285.43px;
+    left: 1087px;
+    top: 20717px;
+	z-index: 3;
+}
+#imgFoto47 {
+    position: absolute;
+	width: 174px;
+  height: 400.78px;
+    left: 457px;
+    top: 21117px;
+	z-index: 3;
+}
+#imgFoto48 {
+    position: absolute;
+	width: 367px;
+  height: 886px;
+    left: 330px;
+    top: 21843px;
+	z-index: 3;
+}
+#imgFoto49 {
+    position: absolute;
+	width: 387px;
+  height: 788px;
+    left: 1148px;
+    top: 21941px;
+	z-index: 3;
+}
+h1
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #00000;
+	position: absolute;
+	top: 502px;
+	left: 409px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h2
+{
+  font-size: 64px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 1228px;
+	left: 1056px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h3
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 1372px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h4
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 1622px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h5
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 1790px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h150
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 1790px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h6
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 2226px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h7
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 2380px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h8
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 2440px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h9
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 2440px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h10
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 2580px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h11
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 2580px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h12
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 2670px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h13
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 2816px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h14
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 2816px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h15
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 2816px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+	opacity: 0;
+}
+h16
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 2816px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+	opacity: 0;
+}
+h18
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 3406px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h19
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 3618px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h20
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 3670px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h21
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 4069px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h22
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 4121px;
+	left: 180px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h23
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 4598px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h24
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 4650px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h240
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 4758px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h25
+{
+  font-size: 64px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 5193px;
+	left: 185px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h26
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 6069px;
+	left: 358px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h27
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 6069px;
+	left: 1155px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h17
+{
+	font-size: 64px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 283px;
+	left: 719px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+	opacity: 1;
+}
+h28
+{
+  font-size: 64px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 6499px;
+	left: 1056px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h29
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 6643px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h290
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 6643px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h291
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 6778px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h30
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 6914px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h31
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 7615px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 60px;
+}
+h32
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 7769px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h33
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 7769px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h34
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 7859px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h35
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 7859px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h36
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 8009px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h37
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 8009px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h38
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 8159px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h39
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 8305px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h40
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 8305px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h41
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 8305px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+	opacity: 0;
+}
+h43
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 8305px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+	opacity: 0;
+}
+
+
+h42
+{
+  font-size: 36px;
+  font-family: Caveat;
+color: #FFFFFF;
+	position: absolute;
+	top: 23270px;
+	left: 1580px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+}
+
+
+h44
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 8749px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h45
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 8954px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h46
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 9006px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h460
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 9006px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h47
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 9446px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h48
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 9498px;
+	left: 180px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h49
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 9925px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h50
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 9977px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h500
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 9977px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h51
+{
+  font-size: 64px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 10499px;
+	left: 185px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h52
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 11472px;
+	left: 353px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h53
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 11472px;
+	left: 1188px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h54
+{
+  font-size: 64px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 11935px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h55
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 12079px;
+	left: 1058px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h550
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 12079px;
+	left: 1058px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h56
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 12259px;
+	left: 1058px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h57
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 12493px;
+	left: 1058px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h58
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 13011px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 60px;
+}
+h59
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13175px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h60
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13175px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h61
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13265px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h62
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13265px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h63
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13375px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h64
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13375px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h65
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13465px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h66
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13465px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h67
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13555px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h68
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13555px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h69
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 13736px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h70
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 13736px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h71
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13736px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+	opacity: 0;
+}
+h72
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 13736px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+	opacity: 0;
+}
+h73
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 14264px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h74
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 14476px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h75
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 14536px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h750
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 14644px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h76
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 15050px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h77
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 15110px;
+	left: 180px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h770
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 15110px;
+	left: 180px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h78
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 15491px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h79
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 15551px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h790
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 15794px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h80
+{
+  font-size: 64px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 16094px;
+	left: 185px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h81
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 17047px;
+	left: 323px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h82
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 17047px;
+	left: 1151px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h83
+{
+  font-size: 64px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 17526px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h84
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 17670px;
+	left: 1058px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h840
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 17670px;
+	left: 1058px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h85
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 17854px;
+	left: 1058px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h86
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 18039px;
+	left: 1058px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h87
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 18635px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 60px;
+}
+h88
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 18799px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h89
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 18799px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h90
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 18939px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h91
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 18939px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h92
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 19079px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h93
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 19079px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h94
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 19199px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h95
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 19199px;
+	left: 182px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h96
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 19421px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h97
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 19421px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h98
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 19421px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+	opacity: 0;
+}
+h99
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 19421px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+	opacity: 0;
+}
+h100
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 19959px;
+	left: 1057px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 60px;
+}
+h101
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 20171px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h102
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 20223px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h1020
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 20223px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h103
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 20743px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h104
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 20795px;
+	left: 180px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h1040
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 20795px;
+	left: 180px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h105
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 21186px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h106
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 21238px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h1060
+{
+  font-size: 22px;
+  font-family: "Montserrat Alternates";
+color: #00000;
+	position: absolute;
+	top: 21265px;
+	left: 1061px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: bolder;
+	line-height: 27px;
+}
+h107
+{
+  font-size: 64px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 21783px;
+	left: 185px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h108
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 22756px;
+	left: 353px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h109
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #00000;
+	position: absolute;
+	top: 22756px;
+	left: 1147px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+button
+{
+	-webkit-appearance: none;
+	appearance:none;
+	outline:none;
+	border: none;
+	background: transparent;
+}
+
+.zoom-image {
+    /* Исходные стили */
+    transition: transform 0.3s ease; /* Плавность перехода */
+}
+
+.zoom-image:hover {
+    /* Стиль при наведении */
+    transform: scale(1.07); /* Увеличить на 20% */
+}
+.zoom-image6 {
+    /* Исходные стили */
+    transition: transform 0.3s ease; /* Плавность перехода */
+	opacity: 1;
+}
+
+.zoom-image6:hover {
+    /* Стиль при наведении */
+    transform: scale(1.07); /* Увеличить на 20% */
+	opacity: 0.8;
+}
+.zoom-image2 {
+    /* Исходные стили */
+    transition: transform 0.3s ease;
+	/* Плавность перехода */
+}
+
+.zoom-image2:hover {
+    /* Стиль при наведении */
+    transform: scale(1.03); /* Увеличить на 20% */
+}
+.zoom-image5 {
+    /* Исходные стили */
+    transition: transform 0.3s ease; /* Плавность перехода */
+}
+
+.zoom-image5:hover {
+    /* Стиль при наведении */
+    transform: scaleY(1.07); /* Увеличить на 20% */
+}
+.classname {
+  animation-name: cssAnimation;
+  animation-duration: 0.4s;
+	animation-delay: 0s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+	animation-play-state: running;
+}
+@keyframes cssAnimation {
+  from {
+    opacity: 0;
+	
+  }
+  to {
+    opacity: 1;
+	 
+  }
+}

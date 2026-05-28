@@ -1,0 +1,640 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 40px;
+  font-family: "Caveat", "Montserrat";
+  scroll-behavior: smooth;
+}
+#vid {
+    position: absolute;
+	width: 1189px;
+  height: 669px;
+    left: 366px;
+    top: 3058px;
+	opacity: 1;	
+	z-index: 3;
+	border-radius: 20px;
+	border: 1px solid #CDA7EA;
+}
+#vid1 {
+    position: absolute;
+	width: 1189px;
+  height: 669px;
+    left: 366px;
+    top: 4790px;
+	opacity: 1;	
+	z-index: 3;
+	border-radius: 20px;
+	border: 1px solid #64BDFF;
+}
+#vid2 {
+    position: absolute;
+	width: 1189px;
+  height: 669px;
+    left: 366px;
+    top: 6527px;
+	opacity: 1;	
+	z-index: 3;
+	border-radius: 20px;
+	border: 1px solid #81E281;
+}
+#vid3 {
+    position: absolute;
+	width: 1189px;
+  height: 669px;
+    left: 366px;
+    top: 8284px;
+	opacity: 1;	
+	z-index: 3;
+	border-radius: 20px;
+	border: 1px solid #EF4156;
+}
+#imgFoto1 {
+    position: absolute;
+	width: 1905px;
+  height: 10336px;
+    left: 0px;
+    top: 55px;
+	z-index: 1;
+}
+#imgFoto0 {
+    position: absolute;
+	width: 1905px;
+  height: 61px;
+    left: 0px;
+    top: 0px;
+	z-index: -1;
+}
+#imgFoto2 {
+    position: absolute;
+	width: 364px;
+  height: 60px;
+    left: 776px;
+    top: 2px;
+	z-index: 2;
+}
+#imgFoto3 {
+    position: absolute;
+	width: 48px;
+  height: 48.11px;
+    left: 936px;
+    top: 4px;
+	z-index: 3;
+}
+
+#imgFoto4 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 41px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto5 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 409px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto6 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 1143px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto7 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 1510px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto8 {
+    position: absolute;
+	width: 319.29px;
+  height: 318.72px;
+    left: 638px;
+    top: 154px;
+	z-index: 2;
+	
+}
+#imgFoto9 {
+    position: absolute;
+	width: 300.99px;
+  height: 318.83px;
+    left: 656.4px;
+    top: 486.91px;
+	z-index: 2;
+	
+}
+#imgFoto10 {
+    position: absolute;
+	width: 346.92px;
+  height: 326.62px;
+    left: 973.08px;
+    top: 155.62px;
+	z-index: 2;
+	
+}
+#imgFoto11 {
+    position: absolute;
+	width: 309.97px;
+  height: 339.14px;
+    left: 969.29px;
+    top: 487.78px;
+	z-index: 2;
+	
+}
+
+#imgFoto20 {
+    position: absolute;
+	width: 286px;
+  height: 761px;
+    left: 444px;
+    top: 2164px;
+	z-index: 3;
+}
+#imgFoto21 {
+    position: absolute;
+	width: 339.83px;
+  height: 778.49px;
+    left: 38px;
+    top: 2131px;
+	z-index: 3;
+}
+#imgFoto22 {
+    position: absolute;
+	width: 385px;
+  height: 684.8px;
+    left: 1043px;
+    top: 3944px;
+	z-index: 3;
+}
+#imgFoto23 {
+    position: absolute;
+	width: 329px;
+  height: 774px;
+    left: 1439px;
+    top: 3854px;
+	z-index: 3;
+}
+#imgFoto25 {
+    position: absolute;
+	width: 375px;
+  height: 777px;
+    left: 66px;
+    top: 5575px;
+	z-index: 3;
+}
+#imgFoto24 {
+    position: absolute;
+	width: 530px;
+  height: 686px;
+    left: 441px;
+    top: 5667px;
+	z-index: 3;
+}
+#imgFoto26 {
+    position: absolute;
+	width: 335px;
+  height: 880px;
+    left: 1010px;
+    top: 7277px;
+	z-index: 3;
+}
+#imgFoto27 {
+    position: absolute;
+	width: 383px;
+  height: 870px;
+    left: 1453px;
+    top: 7301px;
+	z-index: 3;
+}
+#imgFoto13 {
+    position: absolute;
+	width: 1905px;
+  height: 350px;
+    left: 0px;
+    top: 10041px;
+	z-index: 2;
+}
+#imgFoto14 {
+    position: absolute;
+	width: 76px;
+  height: 76px;
+    left: 896px;
+    top: 10251px;
+	z-index: 4;
+}
+#imgFoto15 {
+    position: absolute;
+	width: 188.5px;
+  height: 76px;
+    left: 178px;
+    top: 10251px;
+	z-index: 4;
+}
+#imgFoto16 {
+    position: absolute;
+	width: 75px;
+  height: 75px;
+    left: 1480px;
+    top: 10251px;
+	z-index: 4;
+}
+#imgFoto44 {
+    position: fixed;
+	width: 50px;
+  height: 50px;
+    right: 20px;
+    bottom: 20px;
+	z-index: 5;
+	opacity: 0.5;
+	border: 2px solid white;
+	border-radius: 50%;
+}
+h1
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #00000;
+	position: absolute;
+	top: 1051px;
+	left: 443px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h2
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #00000;
+	position: absolute;
+	top: 1218px;
+	left: 443px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h3
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #00000;
+	position: absolute;
+	top: 1633px;
+	left: 183px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h4
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 2408px;
+	left: 1135px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+}
+h5
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #000000;
+	position: absolute;
+	top: 2488px;
+	left: 1135px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: lighter;
+	line-height: 27px;
+}
+h6
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 4146px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+}
+h7
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #000000;
+	position: absolute;
+	top: 4226px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: lighter;
+	line-height: 27px;
+}
+h8
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 5899px;
+	left: 1095px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+}
+h9
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #000000;
+	position: absolute;
+	top: 5979px;
+	left: 1095px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: lighter;
+	line-height: 27px;
+}
+h10
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 7617px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+}
+h11
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #000000;
+	position: absolute;
+	top: 7697px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: lighter;
+	line-height: 27px;
+}
+h12
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 9256px;
+	left: 787px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+}
+h13
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #000000;
+	position: absolute;
+	top: 9336px;
+	left: 787px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: lighter;
+	line-height: 27px;
+}
+h14
+{
+  font-size: 48px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 9613px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+}
+h15
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #000000;
+	position: absolute;
+	top: 9693px;
+	left: 178px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: lighter;
+	line-height: 27px;
+}
+h16
+{
+  font-size: 36px;
+  font-family: Caveat;
+color: #FFFFFF;
+	position: absolute;
+	top: 10270px;
+	left: 1580px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+}
+h17
+{
+  font-size: 64px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 475px;
+	left: 797px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+	opacity: 0;
+}
+button
+{
+	-webkit-appearance: none;
+	appearance:none;
+	outline:none;
+	border: none;
+	background: transparent;
+}
+
+.zoom-image {
+    /* Исходные стили */
+    transition: transform 0.3s ease; /* Плавность перехода */
+}
+
+.zoom-image:hover {
+    /* Стиль при наведении */
+    transform: scale(1.07); /* Увеличить на 20% */
+}
+.opa1 {
+    /* Исходные стили */
+	opacity: 1;
+    transition: opacity 0.3s ease; /* Плавность перехода */
+}
+
+.opa1:hover {
+    /* Стиль при наведении */
+    opacity: 0.7; /* Увеличить на 20% */
+}
+.zoom-image2 {
+    /* Исходные стили */
+    transition: transform 0.3s ease;
+	/* Плавность перехода */
+}
+
+.zoom-image2:hover {
+    /* Стиль при наведении */
+    transform: scale(1.03); /* Увеличить на 20% */
+}
+
+.zoom-image4 {
+    /* Исходные стили */
+    transition: transform 0.3s ease;
+	/* Плавность перехода */
+	transform: scale(1) rotate(2.98deg);
+}
+
+.zoom-image4:hover {
+    /* Стиль при наведении */
+    transform: scale(1.03) rotate(2.98deg); /* Увеличить на 20% */
+}
+.zoom-image3 {
+    /* Исходные стили */
+    transition: transform 0.3s ease; /* Плавность перехода */
+}
+
+.zoom-image3:hover {
+    /* Стиль при наведении */
+    transform: scaleY(1.07); /* Увеличить на 20% */
+}
+.classname {
+  animation-name: cssAnimation;
+  animation-duration: 0.7s;
+	animation-delay: 0.1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+	animation-play-state: running;
+}
+@keyframes cssAnimation {
+  from {
+    top: 154px;
+	left: 638px;
+  }
+  to {
+    top: 115px;
+	 left: 563px;
+  }
+}
+.classname1 {
+  animation-name: cssAnimation1;
+  animation-duration: 0.7s;
+	animation-delay: 0.1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+	animation-play-state: running;
+}
+@keyframes cssAnimation1 {
+  from {
+    left: 973.08px;
+    top: 155.62px;
+  }
+  to {
+    left: 1040px;
+	 top: 118px;
+  }
+}
+.classname2 {
+  animation-name: cssAnimation2;
+  animation-duration: 0.7s;
+	animation-delay: 0.1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+	animation-play-state: running;
+}
+@keyframes cssAnimation2 {
+  from {
+    left: 656.4px;
+    top: 486.91px;
+  }
+  to {
+    left: 557px;
+	 top: 567px;
+  }
+}
+.classname3 {
+  animation-name: cssAnimation3;
+  animation-duration: 0.7s;
+	animation-delay: 0.1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+	animation-play-state: running;
+}
+@keyframes cssAnimation3 {
+  from {
+    left: 969.29px;
+    top: 487.78px;
+  }
+  to {
+    left: 1040.23px;
+	 top: 567px;
+  }
+}
+.classname4 {
+  animation-name: cssAnimation4;
+  animation-duration: 0.7s;
+	animation-delay: 0.1s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+	animation-play-state: running;
+}
+@keyframes cssAnimation4 {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+

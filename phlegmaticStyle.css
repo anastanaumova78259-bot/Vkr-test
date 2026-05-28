@@ -1,0 +1,278 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 40px;
+  font-family: "Caveat", "Montserrat";
+  scroll-behavior: smooth;
+}
+#imgFoto1 {
+    position: absolute;
+	width: 1905px;
+  height: 2463px;
+    left: 0px;
+    top: 55px;
+	z-index: 1;
+}
+#imgFoto0 {
+    position: absolute;
+	width: 1905px;
+  height: 61px;
+    left: 0px;
+    top: 0px;
+	z-index: -1;
+}
+#imgFoto2 {
+    position: absolute;
+	width: 364px;
+  height: 60px;
+    left: 776px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto3 {
+    position: absolute;
+	width: 48px;
+  height: 48.11px;
+    left: 936px;
+    top: 4px;
+	z-index: 3;
+}
+
+#imgFoto4 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 41px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto5 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 409px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto6 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 1143px;
+    top: 2px;
+	z-index: 0;
+}
+#imgFoto7 {
+    position: absolute;
+	width: 367px;
+  height: 60px;
+    left: 1510px;
+    top: 2px;
+	z-index: 2;
+}
+#imgFoto20 {
+    position: absolute;
+	width: 1271px;
+  height: 809px;
+    left: 325px;
+    top: 624px;
+	z-index: 4;
+}
+#imgFoto21 {
+    position: absolute;
+	width: 374.75px;
+  height: 362px;
+    left: 144px;
+    top: 1620px;
+	z-index: 4;
+}
+#imgFoto22 {
+    position: absolute;
+	width: 102px;
+  height: 103.88px;
+    left: 746px;
+    top: 1098px;
+	z-index: 5;
+}
+
+#imgFoto31 {
+    position: absolute;
+	width: 1905px;
+  height: 350px;
+    left: 0px;
+    top: 2241px;
+	z-index: 2;
+}
+#imgFoto32 {
+    position: absolute;
+	width: 76px;
+  height: 76px;
+    left: 896px;
+    top: 2451px;
+	z-index: 4;
+}
+#imgFoto33 {
+    position: absolute;
+	width: 188.5px;
+  height: 76px;
+    left: 178px;
+    top: 2451px;
+	z-index: 4;
+}
+#imgFoto34 {
+    position: absolute;
+	width: 75px;
+  height: 75px;
+    left: 1480px;
+    top: 2451px;
+	z-index: 4;
+}
+#imgFoto44 {
+    position: fixed;
+	width: 50px;
+  height: 50px;
+    right: 20px;
+    bottom: 20px;
+	z-index: 5;
+	opacity: 0.5;
+	border: 2px solid white;
+	border-radius: 50%;
+}
+h1
+{
+  font-size: 22px;
+  font-family: 'Montserrat Alternates';
+color: #00000;
+	position: absolute;
+	top: 1726px;
+	left: 826px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: normal;
+	line-height: 27px;
+}
+h2
+{
+	font-size: 64px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 283px;
+	left: 732px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+	opacity: 1;
+}
+h3
+{
+	font-size: 64px;
+  font-family: Caveat;
+color: #000000;
+	position: absolute;
+	top: 1578px;
+	left: 826px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+	opacity: 1;
+}
+h42
+{
+  font-size: 36px;
+  font-family: Caveat;
+color: #FFFFFF;
+	position: absolute;
+	top: 2470px;
+	left: 1580px;
+	letter-spacing: normal;
+	z-index: 3;
+	font-weight: -200;
+	line-height: 27px;
+}
+
+.zoom-image {
+    /* Исходные стили */
+    transition: transform 0.3s ease; /* Плавность перехода */
+}
+
+.zoom-image:hover {
+    /* Стиль при наведении */
+    transform: scale(1.07); /* Увеличить на 20% */
+}
+.zoom-image3 {
+    /* Исходные стили */
+    transition: transform 0.6s ease; /* Плавность перехода */
+}
+
+.zoom-image3:hover {
+    /* Стиль при наведении */
+    transform: scale(0.95); /* Увеличить на 20% */
+}
+.zoom-image2 {
+    /* Исходные стили */
+    transition: transform 0.3s ease; /* Плавность перехода */
+}
+
+.zoom-image2:hover {
+    /* Стиль при наведении */
+    transform: scale(1.11); /* Увеличить на 20% */
+}
+
+.opa1 {
+    /* Исходные стили */
+	opacity: 0.8;
+    transition: opacity 0.3s ease; 
+	transition: transform 0.3s ease;/* Плавность перехода */
+}
+
+.opa1:hover {
+    /* Стиль при наведении */
+    opacity: 0.6;
+	transform: scale(1.05);/* Увеличить на 20% */
+}
+
+.zoom-image5 {
+    /* Исходные стили */
+    transition: transform 0.3s ease; /* Плавность перехода */
+}
+
+.zoom-image5:hover {
+    /* Стиль при наведении */
+    transform: scaleY(1.07); /* Увеличить на 20% */
+}
+.classname {
+  animation-name: cssAnimation;
+  animation-duration: 1s;
+	animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+	animation-play-state: running;
+}
+@keyframes cssAnimation {
+  0% {
+    transform: rotate(0deg);
+	
+  }
+	20% {
+    transform: rotate(10deg);
+	
+  }
+	80% {
+    transform: rotate(-10deg);
+	
+  }
+	
+  100% {
+    transform: rotate(0deg);
+	 
+  }
+}

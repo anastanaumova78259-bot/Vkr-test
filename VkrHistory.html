@@ -1,0 +1,176 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>temperament</title>
+	<link rel="stylesheet" href="VkrHistoryStyle.css">
+	</head>
+<body style="background-color: #FFFFFF;">
+	  <style>
+	  video::-webkit-media-controls {
+	  display:none;
+		  }
+		  </style>
+	<img src="./Images/bg color2.png" id="imgFoto1" alt=""/>
+<img src="./Images/фонфон1.png" id="imgFoto0" alt=""/>
+<a href="index.html"><img src="./Images/p1 (1).png" id="imgFoto2" alt="Zoom" class="zoom-image"></a>
+	<a href="index.html"><img src="./Images/tempp.png" id="imgFoto3" alt="Zoom" class="zoom-image"></a>
+
+<img src="./Images/историяпапка2.png" id="imgFoto4" alt="Zoom" class="zoom-image">
+<a href="VkrWorks.html"><img src="./Images/принцип_папка (1).png" id="imgFoto5" alt="Zoom" class="zoom-image"></a>
+<a href="VkrTypes.html"><img src="./Images/типы_папка (1).png" id="imgFoto6" alt="Zoom" class="zoom-image"></a>
+<a href="VkrTest.html"><img src="./Images/тест_папка (1).png" id="imgFoto7" alt="Zoom" class="zoom-image"></a>
+	<h17 id="text">История</h17>
+
+<img src="./Images/gipokrat line.png" id="imgFoto20" alt="Zoom" class="classname">
+<img src="./Images/gipokrat 1.png" id="imgFoto21" alt="Zoom" class="">
+<img src="./Images/Tabli (2).png" id="imgFoto22" alt="Zoom" class="zoom-image4">
+<img src="./Images/ramka (1).png" id="imgFoto23" alt="Zoom" class="">
+	
+<div class="dragItem" style="width:100px; height:100px; background:none; position:absolute; left:4px; top:0px; cursor:pointer;">
+	<img src="./Images/flegmat.png" id="imgFoto24" alt="Zoom" class="zoom-image3"></div>
+<div class="dragItem" style="width:100px; height:100px; background:none; position:absolute; left:5px; top:0px; cursor:pointer;">
+	<img src="./Images/sangvin.png" id="imgFoto25" alt="Zoom" class="zoom-image3"></div>
+<div class="dragItem" style="width:100px; height:100px; background:none; position:absolute; left:4px; top:0px; cursor:pointer;">
+	<img src="./Images/melanc.png" id="imgFoto26" alt="Zoom" class="zoom-image3"></div>
+<div class="dragItem" style="width:100px; height:100px; background:none; position:absolute; left:5px; top:0px; cursor:pointer;"><img src="./Images/coleric.png" id="imgFoto27" alt="Zoom" class="zoom-image3"></div>
+	<script>
+	// 1. Выбираем все элементы с классом .dragItem
+const items = document.querySelectorAll(".dragItem");
+
+items.forEach(item => {
+  // Отмена встроенного браузерного drag-and-drop
+  item.ondragstart = () => false;
+
+  item.addEventListener('mousedown', function(event) {
+    // 'this' или 'event.currentTarget' ссылается на текущий перетаскиваемый элемент
+    let currentItem = this;
+
+    // Подготовка: вычисляем сдвиг
+    let shiftX = event.clientX - currentItem.getBoundingClientRect().left;
+    let shiftY = event.clientY - currentItem.getBoundingClientRect().top;
+
+    // Стили для перетаскивания
+    currentItem.style.position = 'absolute';
+    currentItem.style.zIndex = 1000;
+    
+    // Переносим элемент в body, чтобы он был поверх всех
+    document.body.append(currentItem);
+
+    // Функция перемещения
+    function moveAt(pageX, pageY) {
+      currentItem.style.left = pageX - shiftX + 'px';
+      currentItem.style.top = pageY - shiftY + 'px';
+    }
+
+    // Перемещаем на текущие координаты курсора
+    moveAt(event.pageX, event.pageY);
+
+    // Функция слежения за мышью
+    function onMouseMove(e) {
+      moveAt(e.pageX, e.pageY);
+    }
+
+    // Добавляем обработчик перемещения мыши
+    document.addEventListener('mousemove', onMouseMove);
+
+    // При отпускании мыши
+    currentItem.onmouseup = function() {
+      document.removeEventListener('mousemove', onMouseMove);
+      currentItem.onmouseup = null; // Очищаем обработчик
+    };
+  });
+});</script>
+	
+<img src="./Images/gallen line.png" id="imgFoto28" alt="Zoom" class="classname">
+<img src="./Images/gallen.png" id="imgFoto29" alt="Zoom" class="">
+	<pre align="left"><h1>Исследование темперамента началось еще в древнем мире. 
+Древнегреческий философ и врач Гиппократ, живший в V веке до нашей 
+эры, был одним из первых, кто предложил классификацию типов людей. 
+Он считал, что в каждом организме свой баланс четырех жизненных 
+соков или «гуморов»: крови, желчи, черной желчи и слизи.</h1></pre>
+<pre align="left"><h2>Он считал, что в каждом организме свой баланс четырех 
+жизненных соков или «гуморов»: крови, желчи, черной желчи 
+и слизи. Эти вещества определяют характер человека, 
+его поведение и предрасположенность к заболеваниям.</h2></pre>
+<pre align="left"><h3>Римский философ и врач Гален (II век нашей эры) развил теорию 
+Гиппократа и создал более детальную классификацию. 
+Гален выделяет девять типов темперамента: по четыре простых 
+и смешанных, один — «наилучший», соразмерный, зависящий от всех 
+четырех качеств. Именно Гален создал типологию темперамента, 
+описывающую поведение — Гиппократ до него искал причины 
+возникновения болезней.</h3></pre>
+<pre align="left"><h4>Результатом изысканий этих двух учёных стали четыре 
+основных темперамента, которые мы знаем теперь: 
+сангвинический, холерический, флегматический, 
+меланхолический. 
+
+В течение многих столетий эта классификация оставалась 
+основной и широко использовалась в медицине, психологии 
+и философии.</h4></pre>
+	<pre align="left"><h5>Со временем научные представления об основах темперамента 
+изменялись. В XVIII–XIX веках немецкий философ Иммануил Кант 
+и русский физиолог 
+И. П. Павлов предложили свои подходы к изучению и классификации.
+
+
+Кант делил четыре темперамента на две группы. 
+По его мнению, сангвиниками и меланхоликами всегда руководят 
+чувства, а холериками и флегматиками — действия.</h5></pre>
+	<img src="./Images/frame 1 (3).png" id="imgFoto30" alt="Zoom" class="zoom-image2">
+	<img src="./Images/book1 (1).png" id="imgFoto31" alt="Zoom" class="zoom-image2">
+	<pre align="left"><h6>Теория нейрофизиологического характера — взаимосвязь 
+темпераментных типов с нервной системой. 
+
+Согласно этой теории, специфические свойства 
+деятельности условно-рефлекторного характера 
+и темперамент, обуславливаемые совокупностью 
+особенностей нервной системы, понимаются 
+как тип высшей нервной деятельности (ВНД), 
+согласно ученому И.П. Павлову.</h6></pre>
+	<img src="./Images/frame 2 (6).png" id="imgFoto32" alt="Zoom" class="zoom-image2">
+	<img src="./Images/book2 (1).png" id="imgFoto33" alt="Zoom" class="zoom-image2">
+	<img src="./Images/tablits (1).png" id="imgFoto34" alt="Zoom" class="zoom-image2">
+	<pre align="left"><h7>В XX веке произошел значительный прорыв в изучении 
+темперамента. Психологи начали применять новые научные 
+методы исследования, опираясь на статистический анализ 
+и эксперименты. В результате возникли новые классификации 
+и теории. В 1963 году была разработана первая версия 
+опросника Ганса Айзенка, направленная на изучение 
+характеристик темперамента.</h7></pre>
+	<pre align="left"><h8>Теория четырех темпераментов - это предпсихологическая теория, 
+которая предполагает, что существует четыре основных типа 
+личности: сангвиник, холерик, меланхолик и флегматик.
+ 
+Большинство формулировок включают в себя возможность смешения 
+типов личности, при котором типы личности индивида частично 
+совпадают и в них присутствуют два или более темперамента.</h8></pre>
+	<img src="./Images/line G.png" id="imgFoto35" alt="Zoom" class="classname">
+<img src="./Images/Hans.Eysenck 1.png" id="imgFoto36" alt="Zoom" class="">
+	<pre align="left"><h9>Современная медицина не определяет четкой взаимосвязи 
+между внутренними секрециями и личностью, хотя некоторые 
+психологические типологии личности используют категории, 
+схожие с греческими темпераментами.</h9></pre>
+	<img src="./Images/brain2.png" id="imgFoto37" alt="Zoom" class="classname">
+<img src="./Images/brain.png" id="imgFoto38" alt="Zoom" class="">
+	<pre align="left"><h10>В 2022 году было выявлено первичное воздействие на каждый квадрант 
+новой коры головного мозга (правый передний создает, правый задний 
+связывает, левый задний анализирует и левый передний принимает 
+решения). Таким образом, непреднамеренно была создана объединяющая 
+модель большинства других моделей, связанных с темпераментом, 
+типами личности и социальными ролями, а также стилями обучения 
+и многим другим.</h10></pre>
+	<pre align="left"><h11>Ганс Юрген Айзенк.</h11></pre>
+	<pre align="left"><h12>Немецко-британский учёный-психолог</h12></pre>
+	
+	<a href="index.html"><img src="./Images/tempp.png" id="imgFoto14" alt="Zoom" class="zoom-image"></a>
+	<a link href="https://www.vhutein.ru/"><img src="./Images/Logo VHUTEIN.svg" id="imgFoto15" alt=""/></a>
+	<a link href="https://vk.com/vhutein?from=groups"><img src="./Images/LogoVk.svg" id="imgFoto16" alt=""/></a>
+	<a link href="https://vk.com/vhutein?from=groups"><pre align="left"><h16>vk.com/vhutein</h16></pre></a>
+<img src="./Images/Футер.png" id="imgFoto13" alt="Zoom" class="zoom-image5">
+	
+	<a href="#imgFoto3"><img src="./Images/вверх1.png" id="imgFoto44" alt="" class="zoom-image"></a>
+	
+	
+</body>
+</html>
