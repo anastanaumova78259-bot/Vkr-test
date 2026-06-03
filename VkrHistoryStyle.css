@@ -270,6 +270,14 @@ html {
 	border: 2px solid white;
 	border-radius: 50%;
 }
+#imgFoto43 {
+    position: absolute;
+	width: 600px;
+  height: 399px;
+    left: 1166px;
+    top: 6810px;
+	z-index: 3;
+}
 h1
 {
   font-size: 22px;
