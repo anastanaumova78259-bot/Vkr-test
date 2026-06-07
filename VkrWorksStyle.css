@@ -66,7 +66,7 @@ html {
     position: absolute;
 	width: 367px;
   height: 60px;
-    left: 41px;
+    left: 409px;
     top: 2px;
 	z-index: 0;
 }
@@ -74,7 +74,7 @@ html {
     position: absolute;
 	width: 367px;
   height: 60px;
-    left: 409px;
+    left: 1143px;
     top: 2px;
 	z-index: 2;
 }
@@ -82,7 +82,7 @@ html {
     position: absolute;
 	width: 367px;
   height: 60px;
-    left: 1143px;
+    left: 41px;
     top: 2px;
 	z-index: 0;
 }
